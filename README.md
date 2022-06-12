@@ -118,9 +118,8 @@ First step involved using a circular Poly surface with singular and then series 
 
 For the membrane, two frames were fabricated using laser-cut acrylic sheets. The silicon mixture was then poured and left to rest for 4 hours. The resulting silicon samples were wrapped around the wooden component to test the tension and draping of the material. For testing material flow, plastic membrane fillers from the lab were used.
 
-[![Watch the video] <img width="800" src="Screenshot 2022-06-12 at 18.46.02.png"/>] (https://youtu.be/vt5fpE0bzSY](https://vimeo.com/719545950)
-
-https://youtu.be/vt5fpE0bzSY](https://vimeo.com/719545950
+<img width="800" src="Screenshot 2022-06-12 at 18.46.02.png"/>] 
+(https://vimeo.com/719545950)
 
 ## Conclusion
 <ul>
