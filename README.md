@@ -63,6 +63,8 @@ Source: https://world-nuclear.org/information-library/country-profiles/countries
 ### Re-contextualising local crafts
 The woodwork of Punjab, India is famous globally for its high degree of artistry and detailing. Punjabi carpenters have unmatched skills in creating vintage furniture that not only have a high visual appeal but are also extremely durable and sturdy. Traditional Punjabi carpenters are extremely adept at making some of the most creative pieces of furniture for decorating homes while lasting for generations.
 
+<img width="310" src="peedhies-punjab.jpeg"/> <img  width="310" src="woodwork, punjab.jpeg"/> 
+
 <figure> <img src="https://github.com/vikmish/fabchallenge4/blob/main/woodwork%2C%20punjab.jpeg" alt="" width="400"/>
 <figure> <img src="https://github.com/vikmish/fabchallenge4/blob/main/peedhies-punjab.jpeg" alt="" width="400"/>
 
