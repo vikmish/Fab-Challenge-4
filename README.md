@@ -108,17 +108,19 @@ With the silicone mold, I used the same design from Rhino3D to create a laser cu
 
 For the series of artefacts, I designed and prototyped 'S'il vous plate' that requires lesser resources and water to clean, while focusing on how the water-shortage crisis might look like in the future. The idea came from a few simple principles of physics around volumes and surfaces. Since wiping surfaces requires lesser resources in comparison to scrubbing volumetric shapes, I fabricated the plate out of silicon stretched within a 3D-printed PLA frame. The idea intended to study how material would flow in the frame if the silicon base changed shape in accordance to elevations and depths. This silicon plate is supposed to sit on a table and acquire the shape underneath it every-time its used.
 
-<img width="460" src="5EEE8765-B4D6-4DEA-BB5E-71BE73E0B301 (1).jpg"/> 
+<img width="800" src="5EEE8765-B4D6-4DEA-BB5E-71BE73E0B301 (1).jpg"/> 
  
 To get a deeper understanding of the physics and it's working, tools like Grasshopper and Kangaroo were used to script and generate a few parametric shapes. 
 
-<img width="460" src="Grasshopper process.gif"/> 
+<img width="460" src="Grasshopper process.gif"/>  <img width="460" src="Silicon process.gif"/> 
+
 First step involved using a circular Poly surface with singular and then series of anchor-points to study the difference in elevations and depths generated. To experiment with and generate more definition in the form, certain contours and length factors were played around with. As the last part of the scripting process, the milling paths were generated and baked with a 4mm array distance.
 
-<img width="460" src="Silicon process.gif"/> 
 For the membrane, two frames were fabricated using laser-cut acrylic sheets. The silicon mixture was then poured and left to rest for 4 hours. The resulting silicon samples were wrapped around the wooden component to test the tension and draping of the material. For testing material flow, plastic membrane fillers from the lab were used.
 
-[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/vt5fpE0bzSY)
+[![Watch the video]<img width="800" src="Screenshot 2022-06-12 at 18.46.02.png"/>](https://youtu.be/vt5fpE0bzSY](https://vimeo.com/719545950)
+
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/719545950?h=c6938a3087&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="CNC milling - S&amp;#039;il vous plate"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
 ## Conclusion
 <ul>
