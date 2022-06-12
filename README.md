@@ -112,7 +112,7 @@ For the series of artefacts, I designed and prototyped 'S'il vous plate' that re
  
 To get a deeper understanding of the physics and it's working, tools like Grasshopper and Kangaroo were used to script and generate a few parametric shapes. 
 
-<img width="480" src="Grasshopper process.gif"/>   <img width="480" src="Silicon process.gif"/> 
+<img width="495" src="Grasshopper process.gif"/>   <img width="495" src="Silicon process.gif"/> 
 
 First step involved using a circular Poly surface with singular and then series of anchor-points to study the difference in elevations and depths generated. To experiment with and generate more definition in the form, certain contours and length factors were played around with. As the last part of the scripting process, the milling paths were generated and baked with a 4mm array distance.
 
