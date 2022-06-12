@@ -63,11 +63,7 @@ Source: https://world-nuclear.org/information-library/country-profiles/countries
 ### Re-contextualising local crafts
 The woodwork of Punjab, India is famous globally for its high degree of artistry and detailing. Punjabi carpenters have unmatched skills in creating vintage furniture that not only have a high visual appeal but are also extremely durable and sturdy. Traditional Punjabi carpenters are extremely adept at making some of the most creative pieces of furniture for decorating homes while lasting for generations.
 
-<img width="310" src="peedhies-punjab.jpeg"/> <img  width="310" src="woodwork, punjab.jpeg"/> 
-
-<figure> <img src="https://github.com/vikmish/fabchallenge4/blob/main/woodwork%2C%20punjab.jpeg" alt="" width="400"/>
-<figure> <img src="https://github.com/vikmish/fabchallenge4/blob/main/peedhies-punjab.jpeg" alt="" width="400"/>
-
+<img width="460" src="peedhies-punjab.jpeg"/> <img  width="310" src="woodwork, punjab.jpeg"/> 
 
 ### Specifying local problem
 Punjab is known as the ‘food bowl of India’ with a contribution of more than 40% of the central pool of wheat and 26% of rice. Agriculture contributes to the economy with about 21 % of GSDP against an all India figure of 14%. Punjab is the largest producer of Wheat, Cotton, Paddy, Lychee, Guava & Mandarin Orange. But today, it is one of those regions where water is being depleted at an alarming rate. The ground water condition in about 80% of the rural development blocks of Punjab are marked as ‘over-exploited’. It is estimated that by 2040, most of Punjab will be barren if things continue as they are.
@@ -112,6 +108,17 @@ With the silicone mold, I used the same design from Rhino3D to create a laser cu
 
 For the series of artefacts, I designed and prototyped 'S'il vous plate' that requires lesser resources and water to clean, while focusing on how the water-shortage crisis might look like in the future. The idea came from a few simple principles of physics around volumes and surfaces. Since wiping surfaces requires lesser resources in comparison to scrubbing volumetric shapes, I fabricated the plate out of silicon stretched within a 3D-printed PLA frame. The idea intended to study how material would flow in the frame if the silicon base changed shape in accordance to elevations and depths. This silicon plate is supposed to sit on a table and acquire the shape underneath it every-time its used.
 
+<img width="460" src="5EEE8765-B4D6-4DEA-BB5E-71BE73E0B301 (1).jpg"/> 
+ 
+To get a deeper understanding of the physics and it's working, tools like Grasshopper and Kangaroo were used to script and generate a few parametric shapes. 
+
+<img width="460" src="Grasshopper process.gif"/> 
+First step involved using a circular Poly surface with singular and then series of anchor-points to study the difference in elevations and depths generated. To experiment with and generate more definition in the form, certain contours and length factors were played around with. As the last part of the scripting process, the milling paths were generated and baked with a 4mm array distance.
+
+<img width="460" src="Silicon process.gif"/> 
+For the membrane, two frames were fabricated using laser-cut acrylic sheets. The silicon mixture was then poured and left to rest for 4 hours. The resulting silicon samples were wrapped around the wooden component to test the tension and draping of the material. For testing material flow, plastic membrane fillers from the lab were used.
+
+[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/vt5fpE0bzSY)
 
 ## Conclusion
 <ul>
