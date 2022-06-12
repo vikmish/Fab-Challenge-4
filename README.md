@@ -14,7 +14,7 @@ How can indigenous craft be used as a tool for re-imagining and reflecting on ou
 ## Goals and aims
 1. Build a speculative tool around a future food-related scenarios
 2. Engage people in conversations on how we can use traditional knowledge systems to inform our future
-3. 
+3. Exhibit the almost-ready tools to instigate enquiries and more conversations
 
 
 ## Ideation
@@ -29,11 +29,10 @@ Each of us brainstormed around our individual cultural heritage based on our nat
 'Stipwerk' is a local decoration technique applied by a diminishing group of craftswomen around the area of Staphorst, Rouveen and Nieuwleusen in north-west Overijssel. The practize is closely related to their unique local traditional clothing and agricultural work. In the past years an initiative started to host a website with the aim to revive the tradition by proposing new ways of using the technique. 
 
 
-
-
 <figure> <img src="https://user-images.githubusercontent.com/92102729/171445324-fa0877fa-0294-4057-b488-593c669cd193.png" />
   <figcaption align = "center"><b>Regional 'Stiptwerk'</b></figcaption>
 </figure>
+
 
 ### Specifying local problem
 Since around 2015 a national 'space-crisis' arose in The Netherlands as result of urbanization, industrialization, expansion of city borders and the support of farmers with the motto 'bigger is better'. In the past years this led to a series of literal clashes between farmers-politicians, farmers-industry and farmers-real-estate about land-use, policies on fertilizers, greenification among others. On top of this the handful of - more or less - unaltered natural parks are protected strictly by EU Natura 2000 guidelines suppressing the surrounding farmers more. <br>
@@ -63,12 +62,16 @@ Source: https://world-nuclear.org/information-library/country-profiles/countries
 ### Re-contextualising local crafts
 The woodwork of Punjab, India is famous globally for its high degree of artistry and detailing. Punjabi carpenters have unmatched skills in creating vintage furniture that not only have a high visual appeal but are also extremely durable and sturdy. Traditional Punjabi carpenters are extremely adept at making some of the most creative pieces of furniture for decorating homes while lasting for generations.
 
-<img width="460" src="peedhies-punjab.jpeg"/> <img  width="310" src="woodwork, punjab.jpeg"/> 
 
+<img width="460" src="peedhies-punjab.jpeg"/> <img  width="310" src="woodwork, punjab.jpeg"/> 
+ 
+ 
 ### Specifying local problem
 Punjab is known as the ‘food bowl of India’ with a contribution of more than 40% of the central pool of wheat and 26% of rice. Agriculture contributes to the economy with about 21 % of GSDP against an all India figure of 14%. Punjab is the largest producer of Wheat, Cotton, Paddy, Lychee, Guava & Mandarin Orange. But today, it is one of those regions where water is being depleted at an alarming rate. The ground water condition in about 80% of the rural development blocks of Punjab are marked as ‘over-exploited’. It is estimated that by 2040, most of Punjab will be barren if things continue as they are.
 
+
 Source: https://sikhsiyasat.net/punjab-ground-water-crisis-focused-efforts-are-required-to-overcome-wide-range-of-challenges/
+
 
 ## Fabrication
 ### Ruben:
@@ -102,6 +105,8 @@ Because the plate with sides would take too long on the 3D printer, we sliced th
 With the silicone mold, I used the same design from Rhino3D to create a laser cut file for the form and the inflatable bubbles. After cutting the layers, I glued them together with super glue and used the "Smooth Sil" 50? silicone to cast the mold. We ran out of silicone after sharing the last bit in the bottle, so I wasn't able to make the bottom part (secured with fabric) in order to test the inflation.
 
 ![image silicone](https://github.com/angel-cho/mdef22/blob/dda076c7ef29c20abea16ba0bfe1525a8af539b2/imgs/mc4-silicone.gif)
+
+
 
 ### Vikrant:
 ## My analogy explored how the dinner plates of the future might be self-arranging or modular in a way to make the act of eating more interesting, while requiring lesser resources to clean.
