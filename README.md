@@ -118,9 +118,9 @@ First step involved using a circular Poly surface with singular and then series 
 
 For the membrane, two frames were fabricated using laser-cut acrylic sheets. The silicon mixture was then poured and left to rest for 4 hours. The resulting silicon samples were wrapped around the wooden component to test the tension and draping of the material. For testing material flow, plastic membrane fillers from the lab were used.
 
-[![Watch the video]<img width="800" src="Screenshot 2022-06-12 at 18.46.02.png"/>](https://youtu.be/vt5fpE0bzSY](https://vimeo.com/719545950)
+[![Watch the video] <img width="800" src="Screenshot 2022-06-12 at 18.46.02.png"/>] (https://youtu.be/vt5fpE0bzSY](https://vimeo.com/719545950)
 
-<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/719545950?h=c6938a3087&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="CNC milling - S&amp;#039;il vous plate"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+https://youtu.be/vt5fpE0bzSY](https://vimeo.com/719545950
 
 ## Conclusion
 <ul>
