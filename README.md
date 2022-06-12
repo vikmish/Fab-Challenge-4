@@ -108,17 +108,17 @@ With the silicone mold, I used the same design from Rhino3D to create a laser cu
 
 For the series of artefacts, I designed and prototyped 'S'il vous plate' that requires lesser resources and water to clean, while focusing on how the water-shortage crisis might look like in the future. The idea came from a few simple principles of physics around volumes and surfaces. Since wiping surfaces requires lesser resources in comparison to scrubbing volumetric shapes, I fabricated the plate out of silicon stretched within a 3D-printed PLA frame. The idea intended to study how material would flow in the frame if the silicon base changed shape in accordance to elevations and depths. This silicon plate is supposed to sit on a table and acquire the shape underneath it every-time its used.
 
-<img width="800" src="5EEE8765-B4D6-4DEA-BB5E-71BE73E0B301 (1).jpg"/> 
+<img width="1000" src="5EEE8765-B4D6-4DEA-BB5E-71BE73E0B301 (1).jpg"/> 
  
 To get a deeper understanding of the physics and it's working, tools like Grasshopper and Kangaroo were used to script and generate a few parametric shapes. 
 
-<img width="460" src="Grasshopper process.gif"/>  <img width="460" src="Silicon process.gif"/> 
+<img width="480" src="Grasshopper process.gif"/>   <img width="480" src="Silicon process.gif"/> 
 
 First step involved using a circular Poly surface with singular and then series of anchor-points to study the difference in elevations and depths generated. To experiment with and generate more definition in the form, certain contours and length factors were played around with. As the last part of the scripting process, the milling paths were generated and baked with a 4mm array distance.
 
 For the membrane, two frames were fabricated using laser-cut acrylic sheets. The silicon mixture was then poured and left to rest for 4 hours. The resulting silicon samples were wrapped around the wooden component to test the tension and draping of the material. For testing material flow, plastic membrane fillers from the lab were used.
 
-<img width="800" src="Screenshot 2022-06-12 at 18.46.02.png"/>] 
+<img width="1000" src="Screenshot 2022-06-12 at 18.46.02.png"/>] 
 (https://vimeo.com/719545950)
 
 ## Conclusion
